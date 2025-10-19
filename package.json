@@ -4,5 +4,5 @@
   },
   "type": "module",
   "scripts": {
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js correctSentence.test.js"  }
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"  }
 }
